@@ -1,0 +1,39 @@
+<text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 UNTtite%20(1.3).xsd" xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEI">
+<front>
+<pb n="I" ed="gammelslawsoftexas" /><pb ed="unknown" n="I" />
+<titlePage>
+<docTitle>
+<titlePart type="main"><b>THE L<smcap>AWS OF</smcap> T<smcap>EXAS</smcap> 1822-1897</b></titlePart>
+</docTitle>
+<titlePart type="desc"><i>Austin&#8217;s Colonization Law and Contract; Mexican Constitution of 1824; Federal Colonization Law; Colonization Laws of Coahuila and Texas; Colonization Law of State of Tamau<pc force="weak">-</pc><lb break="no" />Upas; Fredonian Declaration of Independence; Laws and Decrees, with Constitution; of Coahuila and Texas; San Felipe Convention; Journals of the Consultation; Proceedings of the General Council; Goliad Declaration of Independence; Journals of the Convention at Washington; Ordinances and Decrees of the Consultation; Declaration of Independence; Constitution of the Repub<pc force="weak">-</pc><lb break="no" />lic; Laws, General and Special, of the Republic; Annexation Reso<pc force="weak">-</pc><lb break="no" />lution of the United States; Ratification of the same by Texas; Constitution of the United States; Constitutions of the State of Texas, with all the Laws, General and Special, passed thereunder, including Ordinances, Decrees, and Res<pc force="weak">-</pc><lb break="no" />olutions, with the Constitution of the Confederate States and the Reconstruction Acts of Congress.</i></titlePart>
+<byline>COMPILED AND ARRANGED BY <docAuthor>H. P. N. GAMMEL</docAuthor> OF AUSTIN.</byline>
+<byline>WITH AN INTRODUCTION BY <docAuthor>C. W. RAINES</docAuthor>.</byline>
+<titlePart type="volume"><b>VOLUME IV.</b></titlePart>
+<docImprint>AUSTIN: T<smcap>HE</smcap> G<smcap>AMMEL</smcap> B<smcap>OOK</smcap> C<smcap>OMPANY</smcap>.</docImprint>
+<docDate>1898</docDate>
+</titlePage>
+<pb n="II" ed="gammelslawsoftexas" /><pb ed="unknown" n="II" />
+<pb n="III" ed="gammelslawsoftexas" /><pb ed="unknown" n="III" />
+<div1 type="contents">
+<head type="main"><b>CONTENTS.</b></head>
+<p>Page.</p>
+<p>Fifth Legislature, Special Laws, 1853-54.................... <ref>1</ref></p>
+<p>Sixth Legislature, General Laws, 1855-56.................. <ref>181</ref></p>
+<p>Joint Resolutions, Sixth Legislature...................... <ref>263</ref></p>
+<p>Sixth Legislature, Special Laws, 1855-56.................. <ref>299</ref></p>
+<p>Sixth Legislature, General Laws, Adjourned Session, 1856.. <ref>419</ref></p>
+<p>Joint Resolutions, Sixth Legislature, Adjourned Session, 1856...................................................... <ref>531</ref></p>
+<p>Sixth Legislature, Special Laws, Adjourned Session, 1856.. <ref>547</ref></p>
+<p>Seventh Legislature, General Laws, 1858................... <ref>873</ref></p>
+<p>Joint Resolutions, Seventh Legislature................... <ref>1137</ref></p>
+<p>Seventh Legislature, Special Laws, 1858.................. <ref>1179</ref></p>
+<p>Eighth Legislature, General Laws, 1859-60................ <ref>1363</ref></p>
+<p>Ordinances and Resolutions of the Convention, 1861....... <ref>1517</ref></p>
+<p>Constitution of the Confederate States of America, 1861.. <ref>1539</ref></p>
+</div1>
+<pb n="IV" ed="gammelslawsoftexas" /><pb ed="unknown" n="IV" />
+</front>
+<body>
+<p>Body content follows in Chapter_1-180.xml</p>
+</body>
+</text>
